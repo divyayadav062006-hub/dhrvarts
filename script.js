@@ -4,12 +4,12 @@
 const WHATSAPP = '917999781858';
 
 const artworks = [
-  { id: 1, title: "The Elder's Gaze",  medium: 'Graphite on paper',  price: '₹1,999', src: 'images/granny.jpeg'  },
-  { id: 2, title: 'Roar',              medium: 'Charcoal on paper',   price: '₹1,999', src: 'images/lion.jpeg'    },
-  { id: 3, title: 'Bansuri & Feather', medium: 'Graphite on paper',  price: '₹999', src: 'images/bansuri.jpeg' },
-  { id: 4, title: 'Still Life',        medium: 'Graphite on paper',  price: '₹999', src: 'images/cup.jpeg'     },
-  { id: 5, title: 'Harvest',           medium: 'Graphite on paper',  price: '₹499', src: 'images/grapes.jpeg'  },
-  { id: 6, title: 'Elegance',          medium: 'Charcoal on paper',   price: '₹499', src: 'images/portrait.jpeg'},
+  { id: 1, title: "The Elder's Gaze",  medium: 'Graphite on paper',  price: '₹1,999', src: 'granny.jpeg'  },
+  { id: 2, title: 'Roar',              medium: 'Charcoal on paper',   price: '₹1,999', src: 'lion.jpeg'    },
+  { id: 3, title: 'Bansuri & Feather', medium: 'Graphite on paper',  price: '₹999', src: 'bansuri.jpeg' },
+  { id: 4, title: 'Still Life',        medium: 'Graphite on paper',  price: '₹999', src: 'cup.jpeg'     },
+  { id: 5, title: 'Harvest',           medium: 'Graphite on paper',  price: '₹499', src: 'grapes.jpeg'  },
+  { id: 6, title: 'Elegance',          medium: 'Charcoal on paper',   price: '₹499', src: 'portrait.jpeg'},
 ];
 
 /* ─── WhatsApp helper ────────────────────────────────────── */
